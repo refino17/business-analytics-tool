@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+charts/*.png
+output/*
+!output/.gitkeep
+
+# Reports / exports
+*.xlsx
+*.xls
+*.csv
+
+# Local project/session files
+business_project.json
+session_data.json
+
+# Build files
+build/
+dist/
+*.spec
