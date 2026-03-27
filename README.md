@@ -39,3 +39,16 @@ This app helps businesses:
 
 ```bash
 python main.py
+
+
+
+
+
+Why I Built This?
+
+I built this project to help small businesses move from raw sales records to structured analytics, dashboards, and automated Excel reporting.
+
+Author
+
+Promise Esemuede
+GitHub: https://github.com/refino17
