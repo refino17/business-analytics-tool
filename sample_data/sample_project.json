@@ -1,0 +1,117 @@
+{
+    "company": "REFINOTECH",
+    "products": [
+        {
+            "Product_ID": "P001",
+            "Product_Name": "MACBOOK PRO2020",
+            "Category": "Laptop",
+            "Unit_Price": 800000.0,
+            "Cost_Price": 700000.0
+        },
+        {
+            "Product_ID": "P002",
+            "Product_Name": "MACBOOK AIR2020",
+            "Category": "Laptop",
+            "Unit_Price": 600000.0,
+            "Cost_Price": 500000.0
+        },
+        {
+            "Product_ID": "P003",
+            "Product_Name": "SMARTWATCH",
+            "Category": "Accessory",
+            "Unit_Price": 200000.0,
+            "Cost_Price": 100000.0
+        },
+        {
+            "Product_ID": "P004",
+            "Product_Name": "TV BOX",
+            "Category": "Accessory",
+            "Unit_Price": 60000.0,
+            "Cost_Price": 40000.0
+        }
+    ],
+    "customers": [
+        {
+            "Customer_ID": "C001",
+            "Customer_Name": "DANIEL",
+            "City": "LAGOS",
+            "Region": "South West"
+        },
+        {
+            "Customer_ID": "C002",
+            "Customer_Name": "FAITH",
+            "City": "ABUJA",
+            "Region": "North Central"
+        },
+        {
+            "Customer_ID": "C003",
+            "Customer_Name": "JOHN",
+            "City": "PORTHARCOURT",
+            "Region": "South South"
+        },
+        {
+            "Customer_ID": "C004",
+            "Customer_Name": "PAUL",
+            "City": "LAGOS",
+            "Region": "South West"
+        }
+    ],
+    "sales": [
+        {
+            "Order_ID": "ORD001",
+            "Date": "2026-01-27",
+            "Customer_ID": "C001",
+            "Product_ID": "P001",
+            "Quantity": 4
+        },
+        {
+            "Order_ID": "ORD002",
+            "Date": "2026-01-26",
+            "Customer_ID": "C002",
+            "Product_ID": "P001",
+            "Quantity": 5
+        },
+        {
+            "Order_ID": "ORD003",
+            "Date": "2026-02-26",
+            "Customer_ID": "C002",
+            "Product_ID": "P003",
+            "Quantity": 5
+        },
+        {
+            "Order_ID": "ORD004",
+            "Date": "2026-02-26",
+            "Customer_ID": "C004",
+            "Product_ID": "P003",
+            "Quantity": 5
+        },
+        {
+            "Order_ID": "ORD005",
+            "Date": "2026-03-26",
+            "Customer_ID": "C001",
+            "Product_ID": "P003",
+            "Quantity": 4
+        },
+        {
+            "Order_ID": "ORD006",
+            "Date": "2026-03-26",
+            "Customer_ID": "C002",
+            "Product_ID": "P002",
+            "Quantity": 4
+        },
+        {
+            "Order_ID": "ORD007",
+            "Date": "2026-03-26",
+            "Customer_ID": "C002",
+            "Product_ID": "P003",
+            "Quantity": 2
+        },
+        {
+            "Order_ID": "ORD008",
+            "Date": "2026-03-26",
+            "Customer_ID": "C003",
+            "Product_ID": "P004",
+            "Quantity": 2
+        }
+    ]
+}

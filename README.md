@@ -20,6 +20,21 @@ This app helps businesses:
 - pandas
 - matplotlib
 
+## Screenshots
+
+### Business Setup
+![Business Setup](assets/screenshots/business-setup.png)
+
+### Sales Entry
+![Sales Entry](assets/screenshots/sales-entry.png)
+
+### Analytics Summary
+![Analytics Summary](assets/screenshots/analytics-summary.png)
+
+### Dashboard
+![Dashboard](assets/screenshots/app_dashboard.png)
+![Dashboard](assets/screenshots/excel_dashboard.png)
+
 ## Run locally
 
 ```bash
